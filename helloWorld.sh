@@ -1,1 +1,2 @@
-echo 'hello they-them 4'
+#! /bin/bash
+echo "$1 Class"
